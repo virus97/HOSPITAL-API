@@ -1,0 +1,17 @@
+{
+  "name": "hospitalapi-main",
+  "version": "1.0.0",
+  "description": "My Hospital api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.2",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
